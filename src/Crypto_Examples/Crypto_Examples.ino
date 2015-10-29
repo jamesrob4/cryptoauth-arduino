@@ -18,7 +18,7 @@
  */
 
 #include <Arduino.h>
-#include "cryptoauth.h"
+#include <cryptoauth.h>
 
 // If using a ATECC508A then include this define, if ATECC108A then comment out
 // It only affects the defaults on some of the personalisation data.
